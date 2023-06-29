@@ -1,0 +1,4 @@
+baseURL = 'https://zonedout.io/'
+languageCode = 'en-us'
+title = 'ZonedOut'
+theme = 'ananke'
